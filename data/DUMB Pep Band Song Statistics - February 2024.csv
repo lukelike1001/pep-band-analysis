@@ -1,5 +1,5 @@
 Date,Opponent,Type,Song,Period,Media,Time,Score (Duke-Opponent),Early? (Y/N)
-2/7,Notre Dame,M,Overpass,Pregame,n/a,n/a,0-0,N
+2/7,Notre Dame,MBB,Overpass,Pregame,n/a,n/a,0-0,N
 ,,,About Damn Time,Pregame,n/a,n/a,0-0,N
 ,,,Animal,Pregame,n/a,n/a,0-0,N
 ,,,Vehicle,Pregame,n/a,n/a,0-0,N
@@ -30,7 +30,7 @@ Date,Opponent,Type,Song,Period,Media,Time,Score (Duke-Opponent),Early? (Y/N)
 ,,,Pumpkin,2H,<4:00,3:25,65-49,N
 ,,,Devil,Postgame,n/a,n/a,71-53,N
 ,,,Dear Old Duke,Postgame,n/a,n/a,71-53,N
-2/8,Wake Forest,W,Uma Thurman,Pregame,n/a,n/a,0-0,N
+2/8,Wake Forest,WBB,Uma Thurman,Pregame,n/a,n/a,0-0,N
 ,,,DJamite,Pregame,n/a,n/a,0-0,N
 ,,,That That,Pregame,n/a,n/a,0-0,N
 ,,,Lucky Strike,Pregame,n/a,n/a,0-0,N
@@ -52,7 +52,7 @@ Date,Opponent,Type,Song,Period,Media,Time,Score (Duke-Opponent),Early? (Y/N)
 ,,,Pumpkin,4Q,<5:00,6:40,53-36,N
 ,,,Devil,Postgame,n/a,n/a,69-46,N
 ,,,Dear Old Duke,Postgame,n/a,n/a,69-46,N
-2/10,Boston College,M,Somebody Told Me,Pregame,n/a,n/a,0-0,N
+2/10,Boston College,MBB,Somebody Told Me,Pregame,n/a,n/a,0-0,N
 ,,,Stacy's Mom,Pregame,n/a,n/a,0-0,N
 ,,,Fat,Pregame,n/a,n/a,0-0,N
 ,,,Scream,Pregame,n/a,n/a,0-0,N
@@ -82,7 +82,7 @@ Date,Opponent,Type,Song,Period,Media,Time,Score (Duke-Opponent),Early? (Y/N)
 ,,,Pumpkin,2H,<4:00,2:06,73-61,N
 ,,,Devil,Postgame,n/a,n/a,80-65,N
 ,,,Dear Old Duke,Postgame,n/a,n/a,80-65,N
-2/11,UNC,W,Dance the Night,Pregame,n/a,n/a,0-0,N
+2/11,UNC,WBB,Dance the Night,Pregame,n/a,n/a,0-0,N
 ,,,That That,Pregame,n/a,n/a,0-0,N
 ,,,Raise Your Glass,Pregame,n/a,n/a,0-0,N
 ,,,Uma Thurman,Pregame,n/a,n/a,0-0,N
@@ -107,7 +107,7 @@ Date,Opponent,Type,Song,Period,Media,Time,Score (Duke-Opponent),Early? (Y/N)
 ,,,That's What I Want,1OT,n/a,n/a,n/a,N
 ,,,Devil,Postgame,n/a,n/a,68-60,N
 ,,,Dear Old Duke,Postgame,n/a,n/a,68-60,N
-2/19,Notre Dame,W,That That,Pregame,n/a,n/a,0-0,N
+2/19,Notre Dame,WBB,That That,Pregame,n/a,n/a,0-0,N
 ,,,Uma Thurman,Pregame,n/a,n/a,0-0,N
 ,,,Scream,Pregame,n/a,n/a,0-0,N
 ,,,Potential Breakup Song,Pregame,n/a,n/a,0-0,N
@@ -133,3 +133,56 @@ Date,Opponent,Type,Song,Period,Media,Time,Score (Duke-Opponent),Early? (Y/N)
 ,,,That's What I Want,4Q,n/a,1:16,56-65,N
 ,,,Blue & White,Postgame,n/a,n/a,62-70,N
 ,,,Dear Old Duke,Postgame,n/a,n/a,62-70,N
+2/28,Louisville,MBB,That That,Pregame,n/a,n/a,0-0,N
+,,,Lucky Strike,Pregame,n/a,n/a,0-0,N
+,,,Raise Your Glass,Pregame,n/a,n/a,0-0,N
+,,,Runaway Baby,Pregame,n/a,n/a,0-0,N
+,,,Blue & White,Pregame,n/a,n/a,0-0,N
+,,,Dance the Night,Pregame,n/a,n/a,0-0,N
+,,,Can't,Pregame,n/a,n/a,0-0,N
+,,,Break Your Heart,Pregame,n/a,n/a,0-0,N
+,,,Fight Fight,Pregame,n/a,n/a,0-0,N
+,,,Blue & White,Pregame,n/a,n/a,0-0,N
+,,,Can't,Pregame,n/a,n/a,0-0,N
+,,,Zing It!,Pregame,n/a,n/a,0-0,N
+,,,Devil,Pregame,n/a,n/a,0-0,N
+,,,Mortal,Pregame,n/a,n/a,0-0,N
+,,,Fight Fight,1H,<16:00,15:17,6-3,N
+,,,Blue & White,1H,<16:00,15:17,6-3,N
+,,,Sucker,1H,<12:00,11:21,15-9,Y
+,,,Uma Thurman,1H,<8:00,7:27,23-13,Y
+,,,Spell,1H,<4:00,3:49,33-17,N
+,,,Sail,1H,<4:00,3:49,33-17,N
+,,,Blue & White,Halftime,n/a,n/a,36-23,N
+,,,Can't,Halftime,n/a,n/a,36-23,N
+,,,Wipeout,2H,n/a,18:15,43-23,N
+,,,T. gogo,2H,n/a,18:15,43-23,N
+,,,Love from the Other Side,2H,<16:00,13:27,52-36,N
+,,,Somebody Told Me,2H,<8:00,7:53,67-46,N
+,,,Everytime,2H,<4:00,3:49,71-53,N
+,,,Pumpkin,2H,<4:00,3:49,71-53,N
+,,,Devil,Postgame,n/a,n/a,84-59,N
+,,,Dear Old Duke,Postgame,n/a,n/a,84-59,N
+2/29,Virginia,WBB,About Damn Time,Pregame,n/a,n/a,0-0,N
+,,,That's What I Want,Pregame,n/a,n/a,0-0,N
+,,,Disturbia,Pregame,n/a,n/a,0-0,N
+,,,Can't,Pregame,n/a,n/a,0-0,N
+,,,Fight Fight,Pregame,n/a,n/a,0-0,N
+,,,Lucky Strike,Pregame,n/a,n/a,0-0,N
+,,,Devil,Pregame,n/a,n/a,0-0,N
+,,,Mortal,Pregame,n/a,n/a,0-0,N
+,,,Fight Fight,1Q,n/a,6:36,11-2,N
+,,,Blue & White,1Q,n/a,6:36,11-2,Y
+,,,Runaway Baby,1Q-2Q Break,n/a,n/a,17-12,N
+,,,Spell,2Q,n/a,6:40,23-14,N
+,,,Sail,2Q,n/a,6:40,23-14,N
+,,,Blue & White,Halftime,n/a,n/a,40-27,N
+,,,Can't,Halftime,n/a,n/a,40-27,N
+,,,Dance the Night,Halftime,n/a,n/a,40-27,N
+,,,Love Runs Out,3Q,<5:00,4:50,51-33,Y
+,,,Wipeout,3Q-4Q Break,n/a,n/a,53-38,N
+,,,Zing It!,4Q,n/a,7:09,60-41,N
+,,,Everytime,4Q,<5:00,3:09,68-49,N
+,,,Pumpkin,4Q,<5:00,3:09,69-49,N
+,,,Devil,Postgame,n/a,n/a,73-54,N
+,,,Dear Old Duke,Postgame,n/a,n/a,73-54,N
