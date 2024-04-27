@@ -1,10 +1,10 @@
 FlipFolder Number of Songs
-Last updated 02/23/2024. (MM/DD/YYYY)
+Last updated 04/27/2024. (MM/DD/YYYY)
 
 Calculates the number of songs in the DUMB FlipFolder. Categorized by first letter of a song to make it easier to read.
 
 freqs = {
-	"A" : 6,
+	"A" : 5,
 	"B" : 6,
 	"C" : 2,
 	"D" : 8,
@@ -22,7 +22,7 @@ freqs = {
 	"P" : 2,
 	"Q" : 0,
 	"R" : 3,
-	"S" : 29,
+	"S" : 28,
 	"T" : 7,
 	"U" : 3,
 	"V" : 2,
@@ -32,5 +32,5 @@ freqs = {
 	"Z" : 1
 }
 
-Total Number of Songs: 96
+Total Number of Songs: 94
 Sum up all the values in the dictionary to verify this result.
