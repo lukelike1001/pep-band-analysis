@@ -1,0 +1,190 @@
+FlipFolder Number of Songs
+Last updated 01/03/2025. (MM/DD/YYYY)
+
+Calculates the number of songs in the DUMB FlipFolder. Categorized by first letter of a song to make it easier to read.
+
+The songs on FlipFolder for Fall 2024 are:
+
+A / 6:
+- About Damn Time
+- All My Life
+- Am I Dreaming
+- Animal
+- Applause
+- Armed Forces Salute
+
+B / 7:
+- Bad Romance
+- Ballad of Mona Lisa
+- Bang Bang
+- Blue and White
+- Bohemian Rhapsody
+- Break Your Heart
+- Bye
+
+C / 2:
+- Chameleon
+- Cheeseburger in Paradise
+
+D / 9:
+- DJamite
+- Dance the Night
+- Dancing's Not a Crime
+- Dear Old Duke
+- Devil
+- Die With a Smile
+- Disturbia 2023
+- Dixieland Strut
+- Don't Start Now
+
+E / 0:
+
+F / 5:
+- Fat
+- Fight Song, Northwestern
+- Fight, Fight
+- Free Ride
+- Freedom
+
+G / 2:
+- Get it Only
+- Good 4 business
+
+H / 3:
+- HOT TO GO!
+- High Hopes
+- Hold My Hand
+
+I / 2:
+- I Can't Turn You Loose
+- I Do Not Hook up
+
+J / 2:
+- Juice
+- Just Give Me A Reason 2023
+
+K / 0:
+
+L / 4:
+- Locked Out of Heaven
+- Love Runs Out
+- Love From the Other Side
+- Lucky Strike
+
+M / 7:
+- Man, The
+- Middle, The
+- Million Dollar Baby
+- Misery Business
+- Miss Jackson
+- Move Along
+- My Universe
+
+N / 1:
+- NFL on CBS
+
+O / 1:
+- Overpass
+
+P / 3:
+- Please Please Please
+- Pompeii
+- Potential Breakup Song
+
+Q / 0:
+
+R / 3:
+- Raise Your Glass
+- Rock Lobster
+- Runaway Baby
+
+S / 28:
+- Satan's Waitin'
+- Scream
+- Shorts - Crazy in Love
+- Shorts - Hey Ya
+- Shorts - Calabria
+- Shorts - Everytime
+- Shorts - Mortal
+- Shorts - Fire
+- Shorts - Seven Nation
+- Shorts - Freaks
+- Shorts - Igor's Theme
+- Shorts - Industry Baby
+- Shorts - Let's Go
+- Shorts - Smokin'
+- Shorts - Lights
+- Shorts - Power
+- Shorts - Love Rollercoaster
+- Shorts - Sail
+- Shorts - Safe and Sound
+- Shorts - Spell
+- Shorts - Shook
+- Shorts - The Time is Now
+- Shut Up and Dance
+- Somebody Told Me
+- Stacy's Mom
+- Star Spangled Banner
+- Still into You
+- Sucker
+
+T / 7:
+- THAT'S WHAT I WANT
+- Take My Breath
+- Take on Me
+- That That
+- The Whip
+- Toxical
+- Trustfall
+
+U / 3:
+- Uma Thurman
+- University of Lousiana at Lafayette Fight Song
+- Uptown Funk
+
+V / 2:
+- Vehicle
+- Viva Las Vengeance
+
+W / 2:
+- Wipeout
+- Woman
+
+X / 0:
+
+Y / 0:
+
+Z / 1:
+- Zing It!
+
+freqs = {
+	"A" : 6,
+	"B" : 7,
+	"C" : 2,
+	"D" : 9,
+	"E" : 0,
+	"F" : 5,
+	"G" : 2,
+	"H" : 3,
+	"I" : 2,
+	"J" : 2,
+	"K" : 0,
+	"L" : 4,
+	"M" : 7,
+	"N" : 1,
+	"O" : 1,
+	"P" : 3,
+	"Q" : 0,
+	"R" : 3,
+	"S" : 28,
+	"T" : 7,
+	"U" : 3,
+	"V" : 2,
+	"W" : 2,
+	"X" : 0,
+	"Y" : 0,
+	"Z" : 1
+}
+
+Total Number of Songs: 94
+Sum up all the values in the dictionary to verify this result.
